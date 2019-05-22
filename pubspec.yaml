@@ -1,0 +1,8 @@
+name: prompter_mm212
+version: 0.0.1
+description: Library to create CLI wizards
+author: Mahmoud Ma'moon <mahmoud.mamoon202@gmail.com>
+homepage: https://www.google.com
+
+environment: {
+  sdk : '<3.0.0'}
